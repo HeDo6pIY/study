@@ -1,0 +1,222 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	position: relative;
+}
+header {
+	background-color: #2c79a0;
+	width: 100%;
+	height: 90px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.logo {
+	font-size: 50px;
+	margin-left: 12%;
+}
+
+li {
+	text-align: center;
+	display: inline;
+	color: white;
+	padding: 0 15px;
+}
+.li {
+	font-size: 25px;
+}
+
+.main-img {
+	width: 100%;
+}
+
+main {
+	display: flex;
+	width: 100%;
+}
+h1,
+h2,
+h3 {
+	color: white;
+}
+
+/* main */
+
+.img1 {
+	height: 250px;
+	width: 350px;
+}
+
+/* seo */
+
+.seo__div {
+	width: 1700px;
+	height: auto;
+	background-color: #2c79a0;
+	display: flex;
+	padding: 45px 45px;
+	margin: 25px;
+}
+
+.seo {
+	margin: 0 25px;
+	font-size: 50px;
+	padding: 20px;
+}
+
+.p__seo {
+	color: white;
+	font-size: 20px;
+	margin: 0 45px;
+}
+
+/* orm */
+
+.orm__div {
+	width: 1700px;
+	height: auto;
+	background-color: #2c79a0;
+	padding: 45px 45px;
+	margin: 25px;
+	display: flex;
+}
+
+.orm {
+	margin: 0 25px;
+	font-size: 50px;
+	padding: 20px;
+}
+
+.p__orm {
+	color: white;
+	font-size: 20px;
+	margin: 0 45px;
+	text-align: bottom;
+}
+
+.img2 {
+	height: 250px;
+	width: 350px;
+}
+
+/* smm */
+
+.smm__div {
+	width: 1700px;
+	height: auto;
+	background-color: #2c79a0;
+	display: flex;
+	padding: 45px 45px;
+	margin: 25px;
+}
+
+.smm__h1 {
+	margin: 0 25px;
+	font-size: 50px;
+	padding: 20px;
+}
+
+.p__smm {
+	color: white;
+	font-size: 20px;
+	margin: 0 45px;
+}
+
+.img3 {
+	height: 250px;
+	width: 350px;
+}
+
+/* benefits */
+
+.benefits {
+	width: 1500px;
+	height: auto;
+	background-color: #2c79a0;
+	display: absolute;
+	padding: 45px 45px;
+	margin: 25px 30px 60px 30px;
+}
+
+/* lead__benefits */
+
+.lead__benefits {
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+
+.l__img {
+	width: 170px;
+	height: 170px;
+}
+
+.lead__p {
+	font-size: 19px;
+	text-align: left;
+	margin: 0 5px 0 5px;
+}
+
+/* drang__awareness */
+
+.drand__benefits {
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	margin-top: 20px;
+}
+
+.d__img {
+	width: 170px;
+	height: 170px;
+}
+
+.drang__p {
+	font-size: 19px;
+	text-align: left;
+	margin: 0 10px 0 10px;
+}
+
+/* cost__denefits */
+
+.cost__denefits {
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	margin-top: 10px;
+}
+
+.c__img {
+	width: 170px;
+	height: 170px;
+}
+
+.cost__p {
+	font-size: 19px;
+	text-align: left;
+	margin: 0 5px 0 5px;
+}
+
+footer {
+	width: 100%;
+	height: 100px;
+}
+.footer {
+	color: black;
+	font-size: 30px;
+	text-align: center;
+}
+
+.p_footer {
+	font-size: 25px;
+	text-align: center;
+}
