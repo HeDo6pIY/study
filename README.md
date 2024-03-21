@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="stylesheet" href="./css/style.css" />
+		<link rel="stylesheet" href="./Horiseon/css/style.css" />
 		<title>Horiseon</title>
 	</head>
 	<body>
@@ -24,15 +24,17 @@
 			</div>
 		</header>
 		<div>
-			<img class="main-img" src="images/digital-marketing-meeting.jpg" alt="" />
+			<img
+				class="main-img"
+				src="./Horiseon/images/digital-marketing-meeting.jpg"
+				alt=""
+			/>
 		</div>
 		<main>
 			<div class="content">
 				<div class="seo__div">
-					<div class="">
-						<img class="img1" src="images/search.jpg" alt="" />
-					</div>
-					<div class="search">
+					<img class="img1" src="./Horiseon/images/search.jpg" alt="" />
+					<div>
 						<h1 class="seo">Search Engine Optimization</h1>
 						<p class="p__seo">
 							The dominance of mobile internet use means that users are
@@ -44,23 +46,21 @@
 					</div>
 				</div>
 				<div class="orm__div">
-					<h1 class="orm">Online Reputation Management</h1>
-					<p class="p__orm">
-						The web is full of opinions, and some of these can be negative.
-						Social media allows anyone with an internet connection to say
-						whatever they want about your business. Online Reputation Management
-						gives you the control over what potential customers see when they
-						search for your business.
-					</p>
+					<img class="img2" src="./Horiseon/images/online.jpg" alt="" />
 					<div>
-						<img class="img2" src="images/online.jpg" alt="" />
+						<h1 class="orm">Online Reputation Management</h1>
+						<p class="p__orm">
+							The web is full of opinions, and some of these can be negative.
+							Social media allows anyone with an internet connection to say
+							whatever they want about your business. Online Reputation
+							Management gives you the control over what potential customers see
+							when they search for your business.
+						</p>
 					</div>
 				</div>
 				<div class="smm__div">
-					<div class="">
-						<img class="img3" src="images/social.jpg" alt="" />
-					</div>
-					<div class="smm">
+					<img class="img3" src="./Horiseon/images/social.jpg" alt="" />
+					<div>
 						<h1 class="smm__h1">Social Media Marketing</h1>
 						<p class="p__smm">
 							Social media continues to have a sizable influence on buying
@@ -74,7 +74,11 @@
 			<div class="benefits">
 				<div class="lead__benefits">
 					<h4 class="lead__generation">Lead Generation</h4>
-					<img class="l__img" src="images/lead-generation.png" alt="" />
+					<img
+						class="l__img"
+						src="./Horiseon/images/lead-generation.png"
+						alt=""
+					/>
 					<p class="lead__p">
 						Inbound strategies for lead generation require less work for your
 						business, bringing customers directly to your website.
@@ -82,7 +86,11 @@
 				</div>
 				<div class="drand__benefits">
 					<h4 class="drang__awareness">Brand Awarenes</h4>
-					<img class="d__img" src="images/brand-awareness.png" alt="" />
+					<img
+						class="d__img"
+						src="./Horiseon/images/brand-awareness.png"
+						alt=""
+					/>
 					<p class="drang__p">
 						Users find your business through paid and organic searches,
 						increasing the search ranking and visibility for your business.
@@ -90,7 +98,11 @@
 				</div>
 				<div class="cost__denefits">
 					<h4 class="cost__denefits">Cost Denefits</h4>
-					<img class="c__img" src="images/cost-management.png" alt="" />
+					<img
+						class="c__img"
+						src="./Horiseon/images/cost-management.png"
+						alt=""
+					/>
 					<p class="cost__p">
 						As the search ranking for your business increases, your advertising
 						costs decrease, and you no longer need to advertise your page.
