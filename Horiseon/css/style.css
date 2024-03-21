@@ -51,11 +51,6 @@ h3 {
 
 /* main */
 
-.img1 {
-	height: 250px;
-	width: 350px;
-}
-
 /* seo */
 
 .seo__div {
@@ -79,6 +74,11 @@ h3 {
 	margin: 0 45px;
 }
 
+.img1 {
+	height: 250px;
+	width: 350px;
+}
+
 /* orm */
 
 .orm__div {
@@ -93,6 +93,8 @@ h3 {
 .orm {
 	margin: 0 25px;
 	font-size: 50px;
+	flex: 0 0 100%;
+	padding: 20px;
 }
 
 .p__orm {
@@ -105,6 +107,7 @@ h3 {
 .img2 {
 	height: 250px;
 	width: 350px;
+	order: 2;
 }
 
 /* smm */
