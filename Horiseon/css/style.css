@@ -93,14 +93,13 @@ h3 {
 .orm {
 	margin: 0 25px;
 	font-size: 50px;
-	padding: 20px;
 }
 
 .p__orm {
 	color: white;
 	font-size: 20px;
 	margin: 0 45px;
-	text-align: bottom;
+	text-align: left;
 }
 
 .img2 {
@@ -153,6 +152,7 @@ h3 {
 	text-align: center;
 	color: white;
 	font-size: 25px;
+	margin-top: 20;
 }
 
 .l__img {
@@ -161,9 +161,8 @@ h3 {
 }
 
 .lead__p {
-	font-size: 19px;
+	font-size: 16px;
 	text-align: left;
-	margin: 0 5px 0 5px;
 }
 
 /* drang__awareness */
@@ -172,7 +171,7 @@ h3 {
 	text-align: center;
 	color: white;
 	font-size: 25px;
-	margin-top: 20px;
+	margin-top: 25px;
 }
 
 .d__img {
@@ -181,9 +180,8 @@ h3 {
 }
 
 .drang__p {
-	font-size: 19px;
+	font-size: 16px;
 	text-align: left;
-	margin: 0 10px 0 10px;
 }
 
 /* cost__denefits */
@@ -192,7 +190,7 @@ h3 {
 	text-align: center;
 	color: white;
 	font-size: 25px;
-	margin-top: 10px;
+	margin-top: 25px;
 }
 
 .c__img {
@@ -201,9 +199,8 @@ h3 {
 }
 
 .cost__p {
-	font-size: 19px;
+	font-size: 16px;
 	text-align: left;
-	margin: 0 5px 0 5px;
 }
 
 footer {
